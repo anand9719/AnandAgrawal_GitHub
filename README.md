@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arvo&color=blue&size=30&lines=Hi👋,+I'm+Anand+Agrawal!)](https://git.io/typing-svg)
 <p align="center">
-  <img src="https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1049267674-Andrey-Suslov-e1676502561607.jpg?fit=1610%2C800&strip=all" height="200"/>
+  <img src="https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1049267674-Andrey-Suslov-e1676502561607.jpg?fit=1610%2C800&strip=all" height="500"/>
 </p>
 <br>
  <p align="center">
