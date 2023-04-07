@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arvo&color=blue&size=30&lines=Hi👋,+I'm+Anand+Agrawal!)](https://git.io/typing-svg)
 <p align="center">
-  <img src="https://s27389.pcdn.co/wp-content/uploads/2019/08/AdobeStock_244675452.jpeg" height="200"/>
+  <img src="https://drive.google.com/file/d/1IVmMADMDfbSJUKYbGNrZ7v2BPJ7R5HaF/view?usp=drivesdk" height="200"/>
 </p>
 <br>
  <p align="center">
